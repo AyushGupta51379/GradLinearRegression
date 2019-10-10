@@ -1,5 +1,5 @@
 # GradLinearRegression
-Gradient Descent for Linear Regression
+Gradient Descent for Linear Regression (by Ayush Gupta)
 
 # Dataset
 I'm using a small dataset of student test scores and the amount of hours they studied. Intuitively, there must be a relationship right? 
@@ -17,4 +17,4 @@ Dark red line is the line of best fit.The dashed lines are at distances of 31pts
 
 # Credits
 
-Some Credits for this project's code go to [mattnedrich](https://github.com/mattnedrich). I've provided end to end techniques of working on this project, and the results of those techniques.
+Some Credits for this project's code go to [mattnedrich](https://github.com/mattnedrich). I've provided end to end techniques of working on this project, and the results of those techniques. - GUPTA, Ayush.
