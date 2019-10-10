@@ -12,7 +12,7 @@ This shows the distribution of data
 ![Image of visualization of data: https://github.com/AyushGupta51379/GradLinearRegression/blob/master/data_analysis_result_visualize.png](https://github.com/AyushGupta51379/GradLinearRegression/blob/master/data_analysis_result_visualize.png?raw=true)
 
 # Visualizing the results after applying gradient descent method of Linear Regression
-Dark red line is the line of best fit
+Dark red line is the line of best fit.The dashed lines are at distances of 31pts and 32 pts from line of best fit (dark line).
 ![Image of visualization of results: https://github.com/AyushGupta51379/GradLinearRegression/blob/master/data_analysis_result_visualize.png](https://github.com/AyushGupta51379/GradLinearRegression/blob/master/visualize_approx_results.png?raw=true)
 
 # Credits
