@@ -17,4 +17,4 @@ Dark red line is the line of best fit.The dashed lines are at distances of 31pts
 
 # Credits
 
-Some Credits for this project's code go to [mattnedrich](https://github.com/mattnedrich). I've provided end to end techniques of working on this project, and the results of those techniques. - GUPTA, Ayush.
+Some Credits for this project's code go to [mattnedrich](https://github.com/mattnedrich) and [Matt's blog](https://spin.atomicobject.com/2014/06/24/gradient-descent-linear-regression/). I've provided end to end techniques of working on this project, like visualizing the data and visualizing the result after applying gradient descent for linear regression technique on this data, slight modifications to the original code by mattnedrich, and the results of those techniques. - GUPTA, Ayush.
