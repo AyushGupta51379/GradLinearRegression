@@ -1,5 +1,5 @@
 # GradLinearRegression
-Gradient Descent for Linear Regression (by Ayush Gupta)
+Gradient Descent for Linear Regression (by Ayush Gupta, Credit: Matt Nedrich)
 
 # Dataset
 I'm using a small dataset of student test scores and the amount of hours they studied. Intuitively, there must be a relationship right? 
